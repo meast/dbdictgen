@@ -1,0 +1,14 @@
+F:\websites\worksitedev\DBDictGen\DBDictGen\bin\Release\DBDictGen.exe.config
+F:\websites\worksitedev\DBDictGen\DBDictGen\bin\Release\DBDictGen.exe.manifest
+F:\websites\worksitedev\DBDictGen\DBDictGen\bin\Release\DBDictGen.application
+F:\websites\worksitedev\DBDictGen\DBDictGen\bin\Release\DBDictGen.exe
+F:\websites\worksitedev\DBDictGen\DBDictGen\bin\Release\DBDictGen.pdb
+F:\websites\worksitedev\DBDictGen\DBDictGen\bin\Release\MySql.Data.dll
+F:\websites\worksitedev\DBDictGen\DBDictGen\bin\Release\MySql.Data.Entity.dll
+F:\websites\worksitedev\DBDictGen\DBDictGen\obj\x86\Release\DBDictGen.Form1.resources
+F:\websites\worksitedev\DBDictGen\DBDictGen\obj\x86\Release\DBDictGen.Properties.Resources.resources
+F:\websites\worksitedev\DBDictGen\DBDictGen\obj\x86\Release\DBDictGen.csproj.GenerateResource.Cache
+F:\websites\worksitedev\DBDictGen\DBDictGen\obj\x86\Release\DBDictGen.exe.manifest
+F:\websites\worksitedev\DBDictGen\DBDictGen\obj\x86\Release\DBDictGen.application
+F:\websites\worksitedev\DBDictGen\DBDictGen\obj\x86\Release\DBDictGen.exe
+F:\websites\worksitedev\DBDictGen\DBDictGen\obj\x86\Release\DBDictGen.pdb

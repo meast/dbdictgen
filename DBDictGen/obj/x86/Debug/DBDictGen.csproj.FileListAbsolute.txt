@@ -1,0 +1,14 @@
+F:\websites\worksitedev\DBDictGen\DBDictGen\bin\Debug\DBDictGen.exe.config
+F:\websites\worksitedev\DBDictGen\DBDictGen\bin\Debug\DBDictGen.exe.manifest
+F:\websites\worksitedev\DBDictGen\DBDictGen\bin\Debug\DBDictGen.application
+F:\websites\worksitedev\DBDictGen\DBDictGen\bin\Debug\DBDictGen.exe
+F:\websites\worksitedev\DBDictGen\DBDictGen\bin\Debug\DBDictGen.pdb
+F:\websites\worksitedev\DBDictGen\DBDictGen\obj\x86\Debug\DBDictGen.Form1.resources
+F:\websites\worksitedev\DBDictGen\DBDictGen\obj\x86\Debug\DBDictGen.Properties.Resources.resources
+F:\websites\worksitedev\DBDictGen\DBDictGen\obj\x86\Debug\DBDictGen.csproj.GenerateResource.Cache
+F:\websites\worksitedev\DBDictGen\DBDictGen\obj\x86\Debug\DBDictGen.exe.manifest
+F:\websites\worksitedev\DBDictGen\DBDictGen\obj\x86\Debug\DBDictGen.application
+F:\websites\worksitedev\DBDictGen\DBDictGen\obj\x86\Debug\DBDictGen.exe
+F:\websites\worksitedev\DBDictGen\DBDictGen\obj\x86\Debug\DBDictGen.pdb
+F:\websites\worksitedev\DBDictGen\DBDictGen\obj\x86\Debug\DBDictGen.csprojResolveAssemblyReference.cache
+F:\websites\worksitedev\DBDictGen\DBDictGen\bin\Debug\Mono.Data.Sqlite.dll
